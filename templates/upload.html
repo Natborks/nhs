@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block main %}
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Upload</h1>
+        <div class="btn-toolbar mb-2 mb-md-0">
+          <div class="btn-group mr-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary">Export</button>
+          </div>
+          <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
+            <span data-feather="calendar"></span>
+            This week
+          </button>
+        </div>
+      </div>
+
+<div class="outer-div">
+	<div class="inner-div">
+		<img src="{{url_for('static', filename='file.png', width=100, height=100)}}" />
+	</div>
+	<div class="inner-div-form">
+		<form>
+		  <div class="form-group">
+		    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+		  </div>
+		</form>
+		<div class="icon-credit">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+	</div>
+</div>
+	
+
+{% endblock %}
