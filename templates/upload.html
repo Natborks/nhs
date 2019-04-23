@@ -15,15 +15,30 @@
         </div>
       </div>
 
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+{% block body %}{% endblock %}
+
+{{ filename }}
+
 <div class="outer-div">
 	<div class="inner-div">
 		<img src="{{url_for('static', filename='file.png', width=100, height=100)}}" />
 	</div>
 	<div class="inner-div-form">
-		<form>
+		<form action="http://localhost:5000/upload" method = "POST" 
+         enctype = "multipart/form-data">
 		  <div class="form-group">
-		    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+		    <input type="file" class="form-control-file" name="file">
 		  </div>
+		  <input type = "submit"/>
 		</form>
 		<div class="icon-credit">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 	</div>

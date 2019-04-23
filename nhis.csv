@@ -1,0 +1,15 @@
+N,Surname,Other names,Date of Birth,Gender,Atte  Date,Disch Date,Hospital Records Number,Membership Number,Claim Check Code (CCC),Procedure,ICD10,Diagnosis,G-DRG,Service,Medicine,Other Services,Total Claimed,Speciality,Child/ Adult,Inpatient/Outpatient,Speciality2,HPN,Provider Name,MEMBER STATUS,CCC STATUS
+,,,22/12/1958,Female,1/6/2018,1/6/2018,1665/12,65403203,0655240034374,,"G58.0, M95.9, D64.9","Intercostal neuropathy, Acquired deformity of musculoskeletal system, unspecified, Anemia, unspecifi",OPDC06A,#NAME?,1.20,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,10/4/1952,Female,1/6/2018,1/6/2018,1468/14,11538629,7572573630461,,"K27, K29.0","Peptic ulcer, site unspecified, Acute gastritis",OPDC06A,#NAME?,6.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,15/07/1997,Female,1/6/2018,1/6/2018,4880/14,41970181,5727752565433,,J00,Acute nasopharyngitis [common cold],OPDC06A,#NAME?,0.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,22/12/1958,Female,1/6/2018,1/6/2018,1665/12,65403203,0655240034374,,"G58.0, M95.9, D64.9","Intercostal neuropathy, Acquired deformity of musculoskeletal system, unspecified, Anemia, unspecifi",OPDC06A,#NAME?,1.20,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,10/4/1951,Female,1/6/2018,1/6/2018,1468/14,11538629,7572573630461,,"K27, K29.0","Peptic ulcer, site unspecified, Acute gastritis",OPDC06A,#NAME?,6.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,15/07/1997,Female,1/6/2018,1/6/2018,4880/14,45570181,5727752565433,,J00,Acute nasopharyngitis [common cold],OPDC06A,#NAME?,0.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,22/12/1958,Female,1/6/2018,1/6/2018,1665/12,67703203,0655240034374,,"G58.0, M95.9, D64.9","Intercostal neuropathy, Acquired deformity of musculoskeletal system, unspecified, Anemia, unspecifi",OPDC06A,#NAME?,1.20,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,04/10/1954,Female,1/6/2018,1/6/2018,1468/14,11538629,7572573630461,,"K27, K29.0","Peptic ulcer, site unspecified, Acute gastritis",OPDC06A,#NAME?,6.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,15/07/1997,Female,1/6/2018,1/6/2018,4880/14,77770181,5727752565433,,J00,Acute nasopharyngitis [common cold],OPDC06A,#NAME?,0.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,22/12/1958,Female,1/6/2018,1/6/2018,1665/12,65403203,0655240034374,,"G58.0, M95.9, D64.9","Intercostal neuropathy, Acquired deformity of musculoskeletal system, unspecified, Anemia, unspecifi",OPDC06A,#NAME?,1.20,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,04/10/1954,Female,1/6/2018,1/6/2018,1468/14,87658629,7572573630461,,"K27, K29.0","Peptic ulcer, site unspecified, Acute gastritis",OPDC06A,#NAME?,6.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,15/07/1997,Female,1/6/2018,1/6/2018,4880/14,41970766,5727752565433,,J00,Acute nasopharyngitis [common cold],OPDC06A,#NAME?,0.00,,Not All Fields Filled,OPDC,A,#NAME?,#NAME?,,,ACTIVE,INVALID
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
